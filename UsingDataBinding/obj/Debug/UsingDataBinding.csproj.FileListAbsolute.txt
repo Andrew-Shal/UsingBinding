@@ -1,0 +1,9 @@
+C:\Users\shala\source\repos\UsingDataBinding\UsingDataBinding\bin\Debug\UsingDataBinding.exe.config
+C:\Users\shala\source\repos\UsingDataBinding\UsingDataBinding\bin\Debug\UsingDataBinding.exe
+C:\Users\shala\source\repos\UsingDataBinding\UsingDataBinding\bin\Debug\UsingDataBinding.pdb
+C:\Users\shala\source\repos\UsingDataBinding\UsingDataBinding\obj\Debug\UsingDataBinding.csprojAssemblyReference.cache
+C:\Users\shala\source\repos\UsingDataBinding\UsingDataBinding\obj\Debug\UsingDataBinding.Form1.resources
+C:\Users\shala\source\repos\UsingDataBinding\UsingDataBinding\obj\Debug\UsingDataBinding.Properties.Resources.resources
+C:\Users\shala\source\repos\UsingDataBinding\UsingDataBinding\obj\Debug\UsingDataBinding.csproj.GenerateResource.cache
+C:\Users\shala\source\repos\UsingDataBinding\UsingDataBinding\obj\Debug\UsingDataBinding.exe
+C:\Users\shala\source\repos\UsingDataBinding\UsingDataBinding\obj\Debug\UsingDataBinding.pdb
